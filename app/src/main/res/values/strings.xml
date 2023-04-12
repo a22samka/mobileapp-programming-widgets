@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Samuels Widgets</string>
+    <string name="klicka_h_r">Klicka Här</string>
+    <string name="image">Image</string>
+    <string name="very_nice">Very nice</string>
 </resources>
